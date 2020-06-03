@@ -1,0 +1,1250 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+<head>
+    <title>TribrataNews | POLRI</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+
+    <link rel="shortcut icon" href="http://tribratanews.polri.go.id/assets/d/images/favicon.ico">
+    <link rel="icon" type="image/png" href="http://tribratanews.polri.go.id/assets/d/images/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="http://tribratanews.polri.go.id/assets/d/images/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="http://tribratanews.polri.go.id/assets/d/images/favicon-32x32.png" sizes="32x32">
+    <meta name="title" content="TribrataNews | POLRI"><meta name="description" content="TribrataNews merupakan website"><meta name="google-site-verification" content="">
+    <link rel="dns-prefetch" href="http://tribratanews.polri.go.id/assets/d">
+    <link rel="preconnect" href="http://tribratanews.polri.go.id/cdn/">
+
+    <link rel="canonical" href="http://tribratanews.polri.go.id/">
+    <link rel="alternate" title="TribrataNews | RSS Feed Berita Polri" href="http://tribratanews.polri.go.id/feed" type="application/rss+xml"/>
+
+    <link rel="stylesheet" href="http://tribratanews.polri.go.id/assets/d/css/styles.css" media="all"><link rel="stylesheet" href="http://tribratanews.polri.go.id/assets/d/fa-4.7.0/css/font-awesome.min.css" media="all"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">    <style>
+    .list-berita-tag li {margin-right: 5px;}
+    .label-kanal {margin-top: 5px;}
+    .button-shutdown {
+        border-radius: 19px;
+        font-size: 16px;
+        padding: 6px 9px;
+        background-color: #084585;
+        color: #fff;
+        margin: 0px 5px 0px 0px;
+        text-align: center;
+        border: 0px;
+    }
+    .nav-opini {background-color: #cc0000;}
+    .opini {background-color: #cc0000;}
+    .nav-utama {background-color: #e68a00;}
+    .utama {background-color: #e68a00;}
+    .nav-edukasi {background-color: #14a590;}
+    .edukasi {background-color: #14a590;}
+
+    .tbn-view {color: transparent;}
+
+    .tbn-more {font-size: 20px;text-align: center;margin: 30px 0px 40px 0px;}
+    .tbn-more a {color: #fff;background-color: #084585;border-radius: 100px;padding: 10px 40px;-webkit-box-shadow: 0px 7px 17px -10px rgba(0,0,0,0.75);-moz-box-shadow: 0px 7px 17px -10px rgba(0,0,0,0.75);box-shadow: 0px 7px 17px -10px rgba(0,0,0,0.75);}
+    .tbn-more a:hover {background-color: #c00;color: #fff;text-decoration: none;}
+    .warp-list-more{text-align:center}
+	.desc-artikel-read img {width: 100%;}
+    .subtitle-artikel-read {
+        font-family: "Roboto Slab";
+        font-size: 16px;
+    }
+	
+	.mb20{margin-bottom:20px!important;}
+    .w260{width:260px !important;}
+</style>
+    </head>
+<body>
+
+<header>
+    <div class="nav-top">
+    <div class="container">
+        <div class="trib-row">
+            <div class="left-nav-top">
+                <div class="trib-row">
+                    <div class="date-now">
+                        Selasa, 02 Juni 2020                    </div>
+                    <div class="sosmed-header">
+                        <ul>
+                            <li style="margin-left: 10px;">
+                                <a target="_blank" href="https://www.facebook.com/DivHumasPolri/"><img src="http://tribratanews.polri.go.id/assets/d/images/fb.png"></a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://twitter.com/DivHumas_Polri"><img src="http://tribratanews.polri.go.id/assets/d/images/tw.png"></a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.instagram.com/divisihumaspolri/"><img src="http://tribratanews.polri.go.id/assets/d/images/ig.png"></a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.youtube.com/channel/UCPiCGqy-07vQJUySV5Gs-kA"><img src="http://tribratanews.polri.go.id/assets/d/images/yt.png"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+					<div class="right-nav-top">
+						<ul>
+							<li>
+								<button data-toggle="modal" data-target="#daftar" class="button-daftar"> Daftar </button>
+								<button data-toggle="modal" data-target="#masuk" class="button-daftar"> Masuk </button>
+							</li>
+						</ul>
+					</div>        </div>
+    </div>
+</div>
+
+<div class="logo-head">
+    <div class="container">
+        <div class="logo">
+            <img src="http://tribratanews.polri.go.id/assets/d/images/logo-header.png" alt="Tribratanews Divhumas Polri">
+        </div>
+        <div class="banner"><img src="http://tribratanews.polri.go.id/cdn/tbn/banner/desktop-leaderboard-rxc.gif"></div>    </div>
+</div>    <div id="nav-fixed" class="nav--">&nbsp;</div><nav id="navbar" class="nav-primary"><div class="container box-nav"><ul><li><a href="http://tribratanews.polri.go.id/" class="active">Beranda</a></li><li><a href="http://tribratanews.polri.go.id/kanal/operasional">Operasional</a></li><li><a href="http://tribratanews.polri.go.id/kategori/utama">Utama</a></li><li><a href="http://tribratanews.polri.go.id/kategori/humanis">Humanis</a></li><li><a href="http://tribratanews.polri.go.id/kanal/internasional">Internasional</a></li><li><a href="http://tribratanews.polri.go.id/kanal/teknologi">Teknologi</a></li><li><a href="http://tribratanews.polri.go.id/kanal/edukasi">Edukasi</a></li><li><a href="http://tribratanews.polri.go.id/video">Video</a></li><li><a href="http://tribratanews.polri.go.id/photo">Foto</a></li><li><a href="http://tribratanews.polri.go.id/kategori/opini">Opini</a></li><li><a href="http://tribratanews.polri.go.id/index">Index</a></li></ul><div class="box-search">
+            <form method="get" action="http://tribratanews.polri.go.id/search">
+                <input type="hidden" name="type" value="news">
+                <input name="text" type="text" class="search-input" placeholder="Cari Berita">
+                <input type="submit" class="search-icon" value="&#xf002;" type="submit">
+            </form>
+        </div></div></nav>    <div id="runningtext"></div>
+</header>
+
+<section class="content">
+    <div class="container">
+
+        <div class="headline trib-clearfix">
+            <div class="trib-row">
+                <div class="left-headline"><div class="trib-row"><div class="box-others-headline">
+                    <img src="http://tribratanews.polri.go.id/cdn/thumb/300/tbn/news/2020/06/02/39/278/polri--pelayanan-sim-kembali-dibuka-mulai-2-juni-2020-zff.jpeg" alt="Polri : Pelayanan SIM Kembali Dibuka Mulai 2 Juni 2020" class="l-lazy">
+                    <div class="box-desc-others-headline">
+                        <div class="title-others-headline">
+                            <div class="date-headline">02 Juni 2020 - 18:00 WIB</div>
+                            <a href="http://tribratanews.polri.go.id/read/278/39/polri--pelayanan-sim-kembali-dibuka-mulai-2-juni-2020-1591092390">Polri : Pelayanan SIM Kembali Dibuka Mulai 2 Juni 2020</a>
+                        </div>
+                    </div>
+                </div><div class="box-others-headline-bottom">
+                    <img src="http://tribratanews.polri.go.id/cdn/thumb/300/tbn/news/2020/06/02/39/279/maksimal-lakukan-pencegahan-penyebaran-covid19-polri--ops-aman-nusa-ii-telah-ciptakan-sejumlah-inovasi-fgs.jpeg" alt="Maksimal Lakukan Pencegahan Penyebaran Covid-19, Polri : Ops. Aman Nusa II Telah Ciptakan Sejumlah Inovasi" class="l-lazy">
+                    <div class="box-desc-others-headline">
+                        <div class="title-others-headline">
+                            <div class="date-headline">02 Juni 2020 - 18:00 WIB</div>
+                            <a href="http://tribratanews.polri.go.id/read/279/39/maksimal-lakukan-pencegahan-penyebaran-covid19-polri--ops-aman-nusa-ii-telah-ciptakan-sejumlah-inovasi-1591092394">Maksimal Lakukan Pencegahan Penyebaran Covid-19, Polri : Ops. Aman Nusa II Telah Ciptakan Sejumlah Inovasi</a>
+                        </div>
+                    </div>
+                </div></div></div><div class="center-headline">
+                <div class="box-headline">
+                    <img src="http://tribratanews.polri.go.id/cdn/thumb/700/tbn/news/2020/06/02/39/281/polri-kembali-salurkan-bantuan-6-ribu-ton-beras-untuk-masyarakat-terdampak-covid19-htp.jpeg" alt="Polri Kembali Salurkan Bantuan 6 Ribu Ton Beras untuk Masyarakat Terdampak Covid-19"class="lazy">
+                    <div class="box-desc-headline">
+                        <div class="title-frist-headline">
+                            <div class="date-headline">02 Juni 2020 - 20:21 WIB</div>
+                            <a href="http://tribratanews.polri.go.id/read/281/39/polri-kembali-salurkan-bantuan-6-ribu-ton-beras-untuk-masyarakat-terdampak-covid19-1591103160">Polri Kembali Salurkan Bantuan 6 Ribu Ton Beras untuk Masyarakat Terdampak Covid-19</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                <div class="right-headline">
+                    <div class="trib-row">
+                        <div class="box-others-headline"><div id="caro-foto" class="carousel slide" data-ride="carousel"><div class="carousel-inner">
+                    <div class="item active">
+                        <div class="img-headline">
+                            <img src="http://tribratanews.polri.go.id/cdn//tbn/photo/2020/05/27/34/19/kapolda-jateng-cek-pospam-penyekatan-ops-ketupat-candi-2020-di-tol-kalikangkung-soq.jpeg" alt="Kapolda Jateng Cek Pospam Penyekatan Ops Ketupat Candi 2020 di Tol Kalikangkung" class="img-foto r-lazy">
+                            <div class="cover-headline">
+                                <i class="fa fa-camera" aria-hidden="true"></i>
+                            </div>  
+                        </div>
+                        <div class="desc-foto">
+                            <div class="date-headline">26 Mei 2020 - 17:00 WIB</div>
+                            <a href="http://tribratanews.polri.go.id/view/19/34/kapolda-jateng-cek-pospam-penyekatan-ops-ketupat-candi-2020-di-tol-kalikangkung-1590566754">Kapolda Jateng Cek Pospam Penyekatan Ops Ketupat Candi 2020 di Tol Kalikangkung</a>
+                        </div>
+                    </div>
+                    <div class="item ">
+                        <div class="img-headline">
+                            <img src="http://tribratanews.polri.go.id/cdn//tbn/photo/2020/05/20/34/17/polda-jateng-dan-kodam-ivdiponegoro-salurkan-bantuan-sembako-di-rumah-ibadah-ytm.jpeg" alt="Polda Jateng dan Kodam IV/Diponegoro Salurkan Bantuan Sembako di Rumah Ibadah" class="img-foto r-lazy">
+                            <div class="cover-headline">
+                                <i class="fa fa-camera" aria-hidden="true"></i>
+                            </div>  
+                        </div>
+                        <div class="desc-foto">
+                            <div class="date-headline">20 Mei 2020 - 13:00 WIB</div>
+                            <a href="http://tribratanews.polri.go.id/view/17/34/polda-jateng-dan-kodam-ivdiponegoro-salurkan-bantuan-sembako-di-rumah-ibadah-1589965535">Polda Jateng dan Kodam IV/Diponegoro Salurkan Bantuan Sembako di Rumah Ibadah</a>
+                        </div>
+                    </div>
+                    <div class="item ">
+                        <div class="img-headline">
+                            <img src="http://tribratanews.polri.go.id/cdn//tbn/photo/2020/05/18/34/12/polda-riau-lakukan-penyemprotan-disinfektan-serentak-di-6-kabupatenkota-jaq.jpeg" alt="Polda Riau Lakukan Penyemprotan Disinfektan Serentak di 6 Kabupaten/Kota" class="img-foto r-lazy">
+                            <div class="cover-headline">
+                                <i class="fa fa-camera" aria-hidden="true"></i>
+                            </div>  
+                        </div>
+                        <div class="desc-foto">
+                            <div class="date-headline">18 Mei 2020 - 16:09 WIB</div>
+                            <a href="http://tribratanews.polri.go.id/view/12/34/polda-riau-lakukan-penyemprotan-disinfektan-serentak-di-6-kabupatenkota-1589792719">Polda Riau Lakukan Penyemprotan Disinfektan Serentak di 6 Kabupaten/Kota</a>
+                        </div>
+                    </div>
+                    <a class="left carousel-control" href="#caro-foto" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#caro-foto" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                        <span class="sr-only">Next</span>
+                    </a></div></div></div>                        <div class="box-others-headline-bottom"><div id="caro-video" class="carousel slide" data-ride="carousel"><div class="carousel-inner">
+                    <div class="item active">
+                        <div class="img-headline">
+                            <img src="http://tribratanews.polri.go.id/cdn//tbn/video/2020/05/29/35/30/yt-30.jpg" alt="HELLO NEW NORMAL" class="img-video r-lazy">
+                            <div class="cover-headline">
+                                <i class="fa fa-video-camera" aria-hidden="true"></i>
+                            </div>  
+                        </div>
+                        <div class="desc-video">
+                            <div class="date-headline">29 Mei 2020 - 17:08 WIB</div>
+                            <a href="http://tribratanews.polri.go.id/play/30/35/hello-new-normal-1590746741">HELLO NEW NORMAL</a>
+                        </div>
+                    </div> 
+                    <div class="item ">
+                        <div class="img-headline">
+                            <img src="http://tribratanews.polri.go.id/cdn//tbn/video/2020/05/29/35/31/yt-31.jpg" alt="SIGAP! POLRI UNGKAP PEREDARAN NARKOTIKA HAMPIR 1 TON DI TENGAH PANDEMI" class="img-video r-lazy">
+                            <div class="cover-headline">
+                                <i class="fa fa-video-camera" aria-hidden="true"></i>
+                            </div>  
+                        </div>
+                        <div class="desc-video">
+                            <div class="date-headline">25 Mei 2020 - 14:00 WIB</div>
+                            <a href="http://tribratanews.polri.go.id/play/31/35/sigap-polri-ungkap-peredaran-narkotika-hampir-1-ton-di-tengah-pandemi-1590746727">SIGAP! POLRI UNGKAP PEREDARAN NARKOTIKA HAMPIR 1 TON DI TENGAH PANDEMI</a>
+                        </div>
+                    </div> 
+                    <div class="item ">
+                        <div class="img-headline">
+                            <img src="http://tribratanews.polri.go.id/cdn//tbn/video/2020/05/22/35/28/selamat-hari-raya-idul-fitri-1441-h-xda.jpg" alt="Selamat Hari Raya Idul Fitri 1441 H" class="img-video r-lazy">
+                            <div class="cover-headline">
+                                <i class="fa fa-video-camera" aria-hidden="true"></i>
+                            </div>  
+                        </div>
+                        <div class="desc-video">
+                            <div class="date-headline">23 Mei 2020 - 01:36 WIB</div>
+                            <a href="http://tribratanews.polri.go.id/play/28/35/selamat-hari-raya-idul-fitri-1441-h-1590120353">Selamat Hari Raya Idul Fitri 1441 H</a>
+                        </div>
+                    </div> 
+                    <a class="left carousel-control" href="#caro-video" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#caro-video" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                        <span class="sr-only">Next</span>
+                    </a></div></div></div>                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="trib-row">
+            <div class="left-content">
+                <div class="warp-heading"><div class="heading-title-kanal">POPULER</div></div><div class="populer">
+            <div class="warp-list-populer">
+                <div class="trib-row">
+                    <div class="no-populer">1</div>
+                    <div class="title-populer">
+                        <a href="http://tribratanews.polri.go.id/read/241/6/polda-papua-sebut-puluhan-tahanan-papua-diduga-positif-corona-adalah-hoaks-1590930312">Polda Papua Sebut Puluhan Tahanan Papua Diduga Positif Corona Adalah Hoaks</a>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-populer">
+                <div class="trib-row">
+                    <div class="no-populer">2</div>
+                    <div class="title-populer">
+                        <a href="http://tribratanews.polri.go.id/read/225/39/presiden-ri-tinjau-kesiapan-penerapan-prosedur-standar-menuju-new-normal-di-bekasi-1590577510">Presiden RI Tinjau Kesiapan Penerapan Prosedur Standar Menuju New Normal di Bekasi</a>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-populer">
+                <div class="trib-row">
+                    <div class="no-populer">3</div>
+                    <div class="title-populer">
+                        <a href="http://tribratanews.polri.go.id/read/239/36/wakapolda-kalteng-wakili-alumni-akabri-1989-bagikan-sembako-1590912304">Wakapolda Kalteng Wakili Alumni AKABRI 1989 Bagikan Sembako</a>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-populer">
+                <div class="trib-row">
+                    <div class="no-populer">4</div>
+                    <div class="title-populer">
+                        <a href="http://tribratanews.polri.go.id/read/237/36/akhiri-kunjungan-kerja-di-polda-jatim-kabaharkam-polri-tinjau-kampung-tangguh-semeru-desa-waru-kabupaten-sidoarjo-1590908721">Akhiri Kunjungan Kerja Di Polda Jatim, Kabaharkam Polri Tinjau Kampung Tangguh Semeru Desa Waru Kabupaten Sidoarjo</a>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-populer">
+                <div class="trib-row">
+                    <div class="no-populer">5</div>
+                    <div class="title-populer">
+                        <a href="http://tribratanews.polri.go.id/read/232/39/kabaharkam-polri-tinjau-kampung-tangguh-semeru-desa-waru-sidoarjo-1590908718">Kabaharkam Polri Tinjau Kampung Tangguh Semeru Desa. Waru, Sidoarjo</a>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-populer">
+                <div class="trib-row">
+                    <div class="no-populer">6</div>
+                    <div class="title-populer">
+                        <a href="http://tribratanews.polri.go.id/read/240/5/polda-gorontalo-terjunkan-personel-tnipolri-untuk-sosialisasikan-gerakan-masyarakat-disiplin-hadapi-new-normal-1590923149">Polda Gorontalo Terjunkan Personel TNI-Polri untuk Sosialisasikan Gerakan Masyarakat Disiplin Hadapi New Normal</a>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-populer">
+                <div class="trib-row">
+                    <div class="no-populer">7</div>
+                    <div class="title-populer">
+                        <a href="http://tribratanews.polri.go.id/read/234/5/polda-metro-jaya-gencar-sosialisasikan-new-normal-kepada-masyarakat-1590908738">Polda Metro Jaya Gencar Sosialisasikan New Normal Kepada Masyarakat</a>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-populer">
+                <div class="trib-row">
+                    <div class="no-populer">8</div>
+                    <div class="title-populer">
+                        <a href="http://tribratanews.polri.go.id/read/268/36/tim-sar-brimob-polda-kaltim-distribusi-bantuan-untuk-ringankan-beban-korban-banjir-1591070773">Tim SAR Brimob Polda Kaltim Distribusi Bantuan untuk Ringankan Beban Korban Banjir</a>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-populer">
+                <div class="trib-row">
+                    <div class="no-populer">9</div>
+                    <div class="title-populer">
+                        <a href="http://tribratanews.polri.go.id/read/229/39/polri-siap-kawal-new-normal-dengan-mengedepankan-persuasif-dan-edukasi-1590746751">Polri Siap Kawal New Normal dengan Mengedepankan Persuasif dan Edukasi</a>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-populer">
+                <div class="trib-row">
+                    <div class="no-populer">10</div>
+                    <div class="title-populer">
+                        <a href="http://tribratanews.polri.go.id/read/242/40/bingung-cara-urus-sikm-berikut-adalah-cara-mudah-membuatnya-1591063568">Bingung Cara Urus SIKM? Berikut Adalah Cara Mudah Membuatnya</a>
+                    </div>
+                </div>
+            </div></div>                                
+        <div class="warp-heading">
+            <div class="heading-title-kanal">OPINI</div>
+            <span class="more"><a href="http://tribratanews.polri.go.id/subkanal/opini">Lihat Lainnya</a> <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+        </div><div class="warp-list-artikel-side">
+        <div class="list-artikel-side trib-clearfix">
+            <a href="http://tribratanews.polri.go.id/read/47/33/brigjen-pol-dr-chryshnanda--keutamaan-patriot-di-era-milenia-1585944255">
+                <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/04/04/33/47/brigjen-pol-dr-chryshnanda--keutamaan-patriot-di-era-milenia-gku.png" class="img-list-artikel-side l-lazy" alt="Brigjen Pol. Dr. Chryshnanda : Keutamaan Patriot di Era Milenia">
+                <div class="title-list-artikel-side">
+                    Brigjen Pol. Dr. Chryshnanda : Keutamaan Patriot di Era Milenia
+                </div>
+            </a>
+        </div></div>
+                <div class="visitor-counter">
+                    <div id="histats_counter"></div>
+                    <script type="text/javascript">var _Hasync= _Hasync|| [];
+                        _Hasync.push(['Histats.start', '1,4394292,4,3021,130,80,00011111']);
+                        _Hasync.push(['Histats.fasi', '1']);
+                        _Hasync.push(['Histats.track_hits', '']);
+                        (function() {
+                            var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+                            hs.src = ('//s10.histats.com/js15_as.js');
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+                        })();</script>
+                    <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4394292&101" alt="" border="0"></a></noscript>
+                </div>
+            </div>
+
+            <div class="center-content">
+                <div class="tbnInfinity">
+                    <div class="warp-heading"><div class="heading-title-kanal">BERITA TERKINI</div></div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/282/36/kapolda-sumsel-resmikan-kampung-tangkal-covid19-di-kabupaten-ogan-ilir-1591106802">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/36/282/kapolda-sumsel-resmikan-kampung-tangkal-covid19-di-kabupaten-ogan-ilir-rdr.jpeg" alt="Kapolda Sumsel Resmikan Kampung Tangkal Covid-19 di Kabupaten Ogan Ilir" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal humanis">
+                                Humanis
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 21:47 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/282/36/kapolda-sumsel-resmikan-kampung-tangkal-covid19-di-kabupaten-ogan-ilir-1591106802">Kapolda Sumsel Resmikan Kampung Tangkal Covid-19 di Kabupaten Ogan Ilir</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/281/39/polri-kembali-salurkan-bantuan-6-ribu-ton-beras-untuk-masyarakat-terdampak-covid19-1591103160">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/39/281/polri-kembali-salurkan-bantuan-6-ribu-ton-beras-untuk-masyarakat-terdampak-covid19-htp.jpeg" alt="Polri Kembali Salurkan Bantuan 6 Ribu Ton Beras untuk Masyarakat Terdampak Covid-19" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal utama">
+                                Utama
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 20:21 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/281/39/polri-kembali-salurkan-bantuan-6-ribu-ton-beras-untuk-masyarakat-terdampak-covid19-1591103160">Polri Kembali Salurkan Bantuan 6 Ribu Ton Beras untuk Masyarakat Terdampak Covid-19</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/278/39/polri--pelayanan-sim-kembali-dibuka-mulai-2-juni-2020-1591092390">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/39/278/polri--pelayanan-sim-kembali-dibuka-mulai-2-juni-2020-zff.jpeg" alt="Polri : Pelayanan SIM Kembali Dibuka Mulai 2 Juni 2020" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal utama">
+                                Utama
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 18:00 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/278/39/polri--pelayanan-sim-kembali-dibuka-mulai-2-juni-2020-1591092390">Polri : Pelayanan SIM Kembali Dibuka Mulai 2 Juni 2020</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/279/39/maksimal-lakukan-pencegahan-penyebaran-covid19-polri--ops-aman-nusa-ii-telah-ciptakan-sejumlah-inovasi-1591092394">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/39/279/maksimal-lakukan-pencegahan-penyebaran-covid19-polri--ops-aman-nusa-ii-telah-ciptakan-sejumlah-inovasi-fgs.jpeg" alt="Maksimal Lakukan Pencegahan Penyebaran Covid-19, Polri : Ops. Aman Nusa II Telah Ciptakan Sejumlah Inovasi" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal utama">
+                                Utama
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 18:00 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/279/39/maksimal-lakukan-pencegahan-penyebaran-covid19-polri--ops-aman-nusa-ii-telah-ciptakan-sejumlah-inovasi-1591092394">Maksimal Lakukan Pencegahan Penyebaran Covid-19, Polri : Ops. Aman Nusa II Telah Ciptakan Sejumlah Inovasi</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/280/39/irjen-pol-argo--polri-tidak-bosanbosannya-memberikan-edukasi-kepada-masyarakat-untuk-selalu-menerapkan-protokol-kesehatan-1591092367">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/39/280/irjen-pol-argo--polri-tidak-bosanbosannya-memberikan-edukasi-kepada-masyarakat-untuk-selalu-menerapkan-protokol-kesehatan-uai.jpeg" alt="Irjen Pol. Argo : Polri Tidak Bosan-Bosannya Memberikan Edukasi Kepada Masyarakat Untuk Selalu Menerapkan Protokol Kesehatan" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal utama">
+                                Utama
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 18:00 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/280/39/irjen-pol-argo--polri-tidak-bosanbosannya-memberikan-edukasi-kepada-masyarakat-untuk-selalu-menerapkan-protokol-kesehatan-1591092367">Irjen Pol. Argo : Polri Tidak Bosan-Bosannya Memberikan Edukasi Kepada Masyarakat Untuk Selalu Menerapkan Protokol Kesehatan</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/274/2/sepanjang-bulan-mei-polda-sumsel-ungkap-73-kasus-3c-1591092370">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/2/274/sepanjang-bulan-mei-polda-sumsel-ungkap-73-kasus-3c-bom.JPG" alt="Sepanjang Bulan Mei Polda Sumsel Ungkap 73 Kasus 3C" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal operasional">
+                                Reskrim
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 17:12 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/274/2/sepanjang-bulan-mei-polda-sumsel-ungkap-73-kasus-3c-1591092370">Sepanjang Bulan Mei Polda Sumsel Ungkap 73 Kasus 3C</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/273/2/polrestabes-medan-ungkap-kasus-sabu-35-kg-1-tersangka-tewas-ditembak-1591092371">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/2/273/polrestabes-medan-ungkap-kasus-sabu-35-kg-1-tersangka-tewas-ditembak-sap.JPG" alt="Polrestabes Medan Ungkap Kasus Sabu 35 Kg, 1 Tersangka Tewas Ditembak" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal operasional">
+                                Reskrim
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 17:11 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/273/2/polrestabes-medan-ungkap-kasus-sabu-35-kg-1-tersangka-tewas-ditembak-1591092371">Polrestabes Medan Ungkap Kasus Sabu 35 Kg, 1 Tersangka Tewas Ditembak</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/272/5/terapkan-new-normal--polda-jateng-libatkan-kampung-siaga-covid19-1591077967">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/5/272/terapkan-new-normal--polda-jateng-libatkan-kampung-siaga-covid19-lyi.jpg" alt="Terapkan New Normal,  Polda Jateng Libatkan Kampung Siaga Covid-19" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal operasional">
+                                Binmas
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 13:58 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/272/5/terapkan-new-normal--polda-jateng-libatkan-kampung-siaga-covid19-1591077967">Terapkan New Normal,  Polda Jateng Libatkan Kampung Siaga Covid-19</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/270/3/polda-metro-jaya-akan-buka-pelayanan-sim-selama-5-jam-1591077972">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/3/270/polda-metro-jaya-akan-buka-pelayanan-sim-selama-5-jam-jvz.jpg" alt="Polda Metro Jaya Akan Buka Pelayanan SIM Selama 5 Jam" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal operasional">
+                                Lalu Lintas
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 13:53 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/270/3/polda-metro-jaya-akan-buka-pelayanan-sim-selama-5-jam-1591077972">Polda Metro Jaya Akan Buka Pelayanan SIM Selama 5 Jam</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/268/36/tim-sar-brimob-polda-kaltim-distribusi-bantuan-untuk-ringankan-beban-korban-banjir-1591070773">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/36/268/tim-sar-brimob-polda-kaltim-distribusi-bantuan-untuk-ringankan-beban-korban-banjir-osa.jpg" alt="Tim SAR Brimob Polda Kaltim Distribusi Bantuan untuk Ringankan Beban Korban Banjir" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal humanis">
+                                Humanis
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 11:10 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/268/36/tim-sar-brimob-polda-kaltim-distribusi-bantuan-untuk-ringankan-beban-korban-banjir-1591070773">Tim SAR Brimob Polda Kaltim Distribusi Bantuan untuk Ringankan Beban Korban Banjir</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/267/2/pasca-bentrokan-di-tapsel--polda-sumut-tetapkan-17-tersangka-1591067168">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/2/267/pasca-bentrokan-di-tapsel--polda-sumut-tetapkan-17-tersangka-qhi.JPG" alt="Pasca Bentrokan di Tapsel,  Polda Sumut Tetapkan 17 Tersangka" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal operasional">
+                                Reskrim
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 10:54 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/267/2/pasca-bentrokan-di-tapsel--polda-sumut-tetapkan-17-tersangka-1591067168">Pasca Bentrokan di Tapsel,  Polda Sumut Tetapkan 17 Tersangka</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/266/6/selama-pendemi-covid19-polda-metro-jaya---kasus-ujaran-kebencian-dan-hoaks-meningkat-1591067173">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/6/266/selama-pendemi-covid19-polda-metro-jaya---kasus-ujaran-kebencian-dan-hoaks-meningkat-onw.JPG" alt="Selama Pendemi Covid-19, Polda Metro Jaya :  Kasus Ujaran Kebencian dan Hoaks  Meningkat" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal operasional">
+                                Humas
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 10:52 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/266/6/selama-pendemi-covid19-polda-metro-jaya---kasus-ujaran-kebencian-dan-hoaks-meningkat-1591067173">Selama Pendemi Covid-19, Polda Metro Jaya :  Kasus Ujaran Kebencian dan Hoaks  Meningkat</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/264/3/kakorlantas-polri-tinjau-pos-check-dan-objek-wisata-di-banten-1591067170">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/3/264/kakorlantas-polri-tinjau-pos-check-dan-objek-wisata-di-banten-run.JPG" alt="Kakorlantas Polri Tinjau Pos Check dan Objek Wisata di Banten" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal operasional">
+                                Lalu Lintas
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 10:33 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/264/3/kakorlantas-polri-tinjau-pos-check-dan-objek-wisata-di-banten-1591067170">Kakorlantas Polri Tinjau Pos Check dan Objek Wisata di Banten</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="warp-list-artikel">
+                <div class="list-artikel trib-clearfix">
+                    <a href="http://tribratanews.polri.go.id/read/263/3/kampung-tangguh-semeru-hadirkan-fasilitas-terbaik-mendirikan-pos-digital-astuti-1591067209">
+                        <div class="img-artikel">
+                            <img src="http://tribratanews.polri.go.id/cdn/thumb/200/tbn/news/2020/06/02/3/263/kampung-tangguh-semeru-hadirkan-fasilitas-terbaik-mendirikan-pos-digital-astuti-kcf.PNG" alt="Kampung Tangguh Semeru Hadirkan Fasilitas Terbaik, Mendirikan Pos Digital Astuti" class="lazy">
+                        </div>
+                    </a>
+                    <div class="warp-desc-artikel">
+                        <div class="warp-head-artikel">
+                            <span class="label-kanal operasional">
+                                Lalu Lintas
+                            </span>
+                            <span class="date-artikel">Selasa, 02 Juni 2020 - 10:25 WIB</span>
+                        </div>
+                        <div class="title-artikel"><a href="http://tribratanews.polri.go.id/read/263/3/kampung-tangguh-semeru-hadirkan-fasilitas-terbaik-mendirikan-pos-digital-astuti-1591067209">Kampung Tangguh Semeru Hadirkan Fasilitas Terbaik, Mendirikan Pos Digital Astuti</a></div>
+                        <div class="desc-artikel"></div>
+                    </div>
+                </div>
+            </div>
+        <div class="tbn-link-more">
+            <div class="tbn-more">
+                <a href="http://tribratanews.polri.go.id/scrollhome/10">Lihat Lainnya</a>
+            </div>
+        </div>                </div>
+                <div id="more-index" class="btn-more hidden"><a href="http://tribratanews.polri.go.id/index">Index</a></div>            </div>
+
+            <div class="right-content">
+                <div class="warp-heading"><div class="heading-title-kanal">HOT TOPIC</div></div><div class="hot-topic">
+            <div class="warp-list-hot-topic">
+                <div class="title-hot-topic">
+                    <a href="http://tribratanews.polri.go.id/tag/1/corona">corona</a>
+                </div>
+            </div>
+            <div class="warp-list-hot-topic">
+                <div class="title-hot-topic">
+                    <a href="http://tribratanews.polri.go.id/tag/4/covid19">covid19</a>
+                </div>
+            </div>
+            <div class="warp-list-hot-topic">
+                <div class="title-hot-topic">
+                    <a href="http://tribratanews.polri.go.id/tag/19/humas">humas</a>
+                </div>
+            </div>
+            <div class="warp-list-hot-topic">
+                <div class="title-hot-topic">
+                    <a href="http://tribratanews.polri.go.id/tag/32/hoax">hoax</a>
+                </div>
+            </div>
+            <div class="warp-list-hot-topic">
+                <div class="title-hot-topic">
+                    <a href="http://tribratanews.polri.go.id/tag/73/new-normal">new normal</a>
+                </div>
+            </div></div>                
+            <div class="warp-heading">
+                <div class="heading-title-kanal">PHOTO</div>
+                <span class="more"><a href="http://tribratanews.polri.go.id/photo">Lihat Lainnya</a> <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+            </div><div class="warp-foto"><a href="#"><div id="caro-foto-bot" class="carousel slide" data-ride="carousel"><div class="carousel-inner">
+                            <div class="item active">
+                                <img src="http://tribratanews.polri.go.id/cdn/thumb/300/tbn/photo/2020/05/27/34/19/kapolda-jateng-cek-pospam-penyekatan-ops-ketupat-candi-2020-di-tol-kalikangkung-soq.jpeg" alt="Kapolda Jateng Cek Pospam Penyekatan Ops Ketupat Candi 2020 di Tol Kalikangkung" class="img-foto r-lazy">
+                                <div class="desc-foto">
+                                    <a href="http://tribratanews.polri.go.id/view/19/34/kapolda-jateng-cek-pospam-penyekatan-ops-ketupat-candi-2020-di-tol-kalikangkung-1590566754">Kapolda Jateng Cek Pospam Penyekatan Ops Ketupat Candi 2020 di Tol Kalikangkung</a>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <img src="http://tribratanews.polri.go.id/cdn/thumb/300/tbn/photo/2020/05/20/34/17/polda-jateng-dan-kodam-ivdiponegoro-salurkan-bantuan-sembako-di-rumah-ibadah-ytm.jpeg" alt="Polda Jateng dan Kodam IV/Diponegoro Salurkan Bantuan Sembako di Rumah Ibadah" class="img-foto r-lazy">
+                                <div class="desc-foto">
+                                    <a href="http://tribratanews.polri.go.id/view/17/34/polda-jateng-dan-kodam-ivdiponegoro-salurkan-bantuan-sembako-di-rumah-ibadah-1589965535">Polda Jateng dan Kodam IV/Diponegoro Salurkan Bantuan Sembako di Rumah Ibadah</a>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <img src="http://tribratanews.polri.go.id/cdn/thumb/300/tbn/photo/2020/05/18/34/12/polda-riau-lakukan-penyemprotan-disinfektan-serentak-di-6-kabupatenkota-jaq.jpeg" alt="Polda Riau Lakukan Penyemprotan Disinfektan Serentak di 6 Kabupaten/Kota" class="img-foto r-lazy">
+                                <div class="desc-foto">
+                                    <a href="http://tribratanews.polri.go.id/view/12/34/polda-riau-lakukan-penyemprotan-disinfektan-serentak-di-6-kabupatenkota-1589792719">Polda Riau Lakukan Penyemprotan Disinfektan Serentak di 6 Kabupaten/Kota</a>
+                                </div>
+                            </div></div>
+                            <a class="left carousel-control" href="#caro-foto-bot" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#caro-foto-bot" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <span class="sr-only">Next</span>
+                            </a></div></a></div>                
+        <div class="warp-heading">
+            <div class="heading-title-kanal">VIDEO</div>
+            <span class="more"><a href="http://tribratanews.polri.go.id/kanal/video">Lihat Lainnya</a> <i class="fa fa-angle-right" aria-hidden="true"></i></span>
+        </div><div class="warp-video-bot mb20"><div id="caro-video" class="carousel slide" data-ride="carousel"><div class="carousel-inner">
+                    <div class="item active">
+                        <img src="http://tribratanews.polri.go.id/cdn/thumb/300/tbn/video/2020/05/29/35/30/yt-30.jpg" alt="HELLO NEW NORMAL" class="img-video r-lazy">
+                        <div class="desc-video">
+                            <a href="http://tribratanews.polri.go.id/play/30/35/hello-new-normal-1590746741">HELLO NEW NORMAL</a>
+                        </div>
+                    </div>
+                    <div class="item ">
+                        <img src="http://tribratanews.polri.go.id/cdn/thumb/300/tbn/video/2020/05/29/35/31/yt-31.jpg" alt="SIGAP! POLRI UNGKAP PEREDARAN NARKOTIKA HAMPIR 1 TON DI TENGAH PANDEMI" class="img-video r-lazy">
+                        <div class="desc-video">
+                            <a href="http://tribratanews.polri.go.id/play/31/35/sigap-polri-ungkap-peredaran-narkotika-hampir-1-ton-di-tengah-pandemi-1590746727">SIGAP! POLRI UNGKAP PEREDARAN NARKOTIKA HAMPIR 1 TON DI TENGAH PANDEMI</a>
+                        </div>
+                    </div>
+                    <div class="item ">
+                        <img src="http://tribratanews.polri.go.id/cdn/thumb/300/tbn/video/2020/05/22/35/28/selamat-hari-raya-idul-fitri-1441-h-xda.jpg" alt="Selamat Hari Raya Idul Fitri 1441 H" class="img-video r-lazy">
+                        <div class="desc-video">
+                            <a href="http://tribratanews.polri.go.id/play/28/35/selamat-hari-raya-idul-fitri-1441-h-1590120353">Selamat Hari Raya Idul Fitri 1441 H</a>
+                        </div>
+                    </div></div>
+            <a class="left carousel-control" href="#caro-video-bot" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#caro-video-bot" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+                <span class="sr-only">Next</span>
+            </a></div></div>
+                <div id="widgetTwitter"></div>
+                <div id="widgetFacebook"></div>
+                <div id="widgetInstagram"></div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <div class="trib-row">
+            <div class="footer1">
+                <img src="http://tribratanews.polri.go.id/assets/d/images/logo-footer.png" class="logo-footer">
+
+                <div class="sosmed-footer">
+                    Connect With Us
+                    <ul>
+                        <li>
+                            <a href="https://www.facebook.com/DivHumasPolri/"><img src="http://tribratanews.polri.go.id/assets/d/images/fb.png"></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/DivHumas_Polri"><img src="http://tribratanews.polri.go.id/assets/d/images/tw.png"></a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/divisihumaspolri/"><img src="http://tribratanews.polri.go.id/assets/d/images/ig.png"></a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/channel/UCPiCGqy-07vQJUySV5Gs-kA"><img src="http://tribratanews.polri.go.id/assets/d/images/yt.png"></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="copy">
+                    &copy; Tribratanews 2020
+                </div>
+            </div>
+            <div class="footer2">
+                <div class="title-footer">
+                    Kanal :
+                </div>
+                <div class="trib-row">
+                    <div class="list-footer-kanal">
+                        <ul>
+                            <li class="frist-list-footer"><a href="http://tribratanews.polri.go.id/kanal/operasional">Operasional</a></li>
+                        </ul>
+                        <ul>
+                            <li class="frist-list-footer"><a href="http://tribratanews.polri.go.id/utama">Utama</a></li>
+                        </ul>
+                        <ul>
+                            <li class="frist-list-footer"><a href="http://tribratanews.polri.go.id/kanal/teknologi">Teknologi</a></li>
+                        </ul>
+                        <ul>
+                            <li class="frist-list-footer"><a href="http://tribratanews.polri.go.id/kanal/internasional">Internasional</a></li>
+                        </ul>
+                        <ul>
+                            <li class="frist-list-footer"><a href="http://tribratanews.polri.go.id/opini">Opini</a></li>
+                        </ul>
+                    </div>
+                    <div class="list-footer-kanal">
+                        <ul>
+                            <li class="frist-list-footer"><a href="http://tribratanews.polri.go.id/humanis">Humanis</a></li>
+                        </ul>
+                        <ul>
+                            <li class="frist-list-footer"><a href="http://tribratanews.polri.go.id/kanal/edukasi">Edukasi</a></li>
+                        </ul>
+                        <ul>
+                            <li class="frist-list-footer"><a href="http://tribratanews.polri.go.id/photo">Foto</a></li>
+                        </ul>
+                        <ul>
+                            <li class="frist-list-footer"><a href="http://tribratanews.polri.go.id/video">Video</a></li>
+                        </ul>
+                        <ul>
+                            <li class="frist-list-footer"><a href="http://tribratanews.polri.go.id/index">Index</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div> 
+            <div class="footer3">
+                <div class="title-footer">
+                    Management :
+                </div>
+                <div class="list-footer">
+                    <ul>
+                        <li><a href="http://tribratanews.polri.go.id/management/1">Tentang Kami</a></li>
+                        <li><a href="http://tribratanews.polri.go.id/management/2">Redaksi</a></li>
+                        <li><a href="http://tribratanews.polri.go.id/management/3">Disclaimer</a></li>
+                        <li><a href="http://tribratanews.polri.go.id/management/4">Term of Service</a></li>
+                        <li><a href="http://tribratanews.polri.go.id/management/5">Privacy Policy</a></li>
+                        <li><a href="http://tribratanews.polri.go.id/management/6">Sitemap</a></li>
+                        <li><a href="http://tribratanews.polri.go.id/management/7">Kontak Kami</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--<div class="trib-row">
+            <div class="copyright_text">&copy;  TribrataNews.com All right reserved</div>
+            <small>/  - 0.0209s</small>
+        </div>-->
+    </div>
+</footer><div class="modal fade" id="daftar" role="dialog">
+    <div class="modal-dialog" role="document">
+        <form id="reg" action="javascript:" method="POST">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div style="font-size: 18px; font-weight: bold">DAFTAR</div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-daftar">
+
+                        <div class="form-input-daftar">
+                            <i class="fa fa-user" aria-hidden="true"></i>
+                            <input id="uname" type="text" class="input-daftar" name="uname" placeholder="Nama">
+                        </div>
+                        <p><code id="err-uname" class="col-red" style="display: none"></code></p>
+
+                        <div class="form-input-daftar">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            <input id="email" type="text" class="input-daftar" name="email" placeholder="Email">
+                        </div>
+                        <p><code id="err-email" class="col-red" style="display: none"></code></p>
+
+                        <div class="form-input-daftar">
+                            <i class="fa fa-mobile" aria-hidden="true"></i>
+                            <input id="hp" type="text" class="input-daftar" name="hp" placeholder="No. HP">
+                        </div>
+
+                        <div class="form-input-daftar">
+                            <i class="fa fa-lock" aria-hidden="true"></i>
+                            <input id="pass" type="password" class="input-daftar" name="password" placeholder="Password">
+                        </div>
+                        <p><code id="err-pass" class="col-red" style="display: none"></code></p>
+
+                        <div class="form-input-daftar">
+                            <i class="fa fa-lock" aria-hidden="true"></i>
+                            <input id="cpass" type="password" class="input-daftar" name="cpassword" placeholder="Confirm Password">
+                        </div>
+                        <p><code id="err-cpass" class="col-red" style="display: none"></code></p>
+
+                        <div class="form-input-daftar">
+                            <i class="fa fa-address-card-o" aria-hidden="true"></i>
+                            <select id="gender" class="input-daftar" name="jenis_kelamin" placeholder="Jenis Kelamin">
+                                <option value="1">Pria</option>
+                                <option value="2">Wanita</option>
+                            </select>
+                        </div>
+
+                        <div class="">
+                            <input id="subscriber" type="checkbox" class="" name="subscriber" style="width:20px; height:20px;">
+                            <span style="position: absolute;margin: 5px 0 0 10px;"><strong>Apakah Anda Ingin Berlangganan Newsletter.?</strong></span>
+                        </div>
+
+                        <p></p>
+                        <div class="form-input-daftar">
+                            <div id="capcay-daftar"></div>
+                        </div>
+
+                        <p><span id="form-loading" class="col-blue" style="display: none"></span></p>
+                        <p><span id="form-success" class="col-green" style="display: none"></span></p>
+                        <p><code id="form-error" class="col-red" style="display: none"></code></p>
+                        <button id="btn-daftar" type="submit" class="btn-daftar">
+                            DAFTAR
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="modal fade" id="masuk" role="dialog">
+    <div class="modal-dialog" role="document">
+        <form id="login" action="javascript:" method="POST">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div style="font-size: 18px; font-weight: bold">LOGIN</div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-daftar">
+                        <div class="form-input-daftar">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            <input id="log-email" type="text" class="input-daftar" name="email" placeholder="Email">
+                        </div>
+                        <p><code id="err-lemail" class="col-red" style="display: none"></code></p>
+
+                        <div class="form-input-daftar">
+                            <i class="fa fa-lock" aria-hidden="true"></i>
+                            <input id="log-pass" type="password" class="input-daftar" name="password" placeholder="Password">
+                        </div>
+                        <p><code id="err-lpass" class="col-red" style="display: none"></code></p>
+
+                        <p></p>
+                        <div class="form-input-daftar">
+                            <div id="capcay-masuk"></div>
+                        </div>
+
+                        <p><span id="form-loading-log" class="col-blue" style="display: none"></span></p>
+                        <p><span id="form-success-log" class="col-green" style="display: none"></span></p>
+                        <p><code id="form-error-log" class="col-red" style="display: none"></code></p>
+                        <button id="btn-masuk" type="submit" class="btn-daftar">
+                            Masuk
+                        </button>
+						<a href="#" data-toggle="modal" data-target="#lupa-password" id="btn-lupa-password"> Lupa Password </a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="modal fade" id="lupa-password" role="dialog">
+	<div class="modal-dialog" role="document">
+        <form id="formlupa" action="javascript:" method="POST">
+			<div class="modal-content">
+				<div class="modal-header">
+					<div style="font-size: 18px; font-weight: bold">LUPA PASSWORD</div>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="form-daftar">
+						<div class="form-input-daftar">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+							<input id="lpemail" type="text" class="input-daftar" name="email" placeholder="Email" required>
+						</div>
+
+                        <p><span id="form-loading-lupa" class="col-blue" style="display: none"></span></p>
+                        <p><span id="form-success-lupa" class="col-green" style="display: none"></span></p>
+                        <p><code id="form-error-lupa" class="col-red" style="display: none"></code></p>
+						<button id="btn-lupa" type="submit" class="btn-daftar">
+							Kirim
+						</button>
+					</div>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+
+ <script src="http://tribratanews.polri.go.id/assets/d/js/jquery-1.11.1.min.js"></script><script src="http://tribratanews.polri.go.id/assets/d/bootstrap/bootstrap.min.js"></script><script src="http://tribratanews.polri.go.id/assets/d/js/jquery.lazyload.min.js"></script><script src="http://tribratanews.polri.go.id/assets/d/js/jquery.jscroll.min.js"></script><script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"></script><style type="text/css">.hidden{display:none}</style>
+<script>
+    var capcaydaftar,capcaymasuk;
+    var onloadCallback = function() {
+        capcaydaftar = grecaptcha.render(document.getElementById('capcay-daftar'), {'sitekey' : '6Lc5ceQUAAAAAHTIzXHESrbHqE438EY4LmF3Pl4M'});
+        capcaymasuk = grecaptcha.render(document.getElementById('capcay-masuk'),{'sitekey' : '6Lc5ceQUAAAAAHTIzXHESrbHqE438EY4LmF3Pl4M'});
+    };
+
+    $(function() {
+        $.ajax({url:'http://tribratanews.polri.go.id/ajaxpage/runningtext',method:"GET",success:function(result){$('#runningtext').html(result);}});
+        $.ajax({url:'http://tribratanews.polri.go.id/ajaxpage/twitter',method:"GET",success:function(result){$('#widgetTwitter').html(result);}});
+        $.ajax({url:'http://tribratanews.polri.go.id/ajaxpage/facebook',method:"GET",success:function(result){$('#widgetFacebook').html(result);}});
+        $.ajax({url:'http://tribratanews.polri.go.id/ajaxpage/instagram',method:"GET",success:function(result){$('#widgetInstagram').html(result);}});
+
+        /* member */
+        $("#reg").on('submit', function() {
+            var uname = $('#uname').val(),
+                email = $('#email').val(),
+                hp = $('#hp').val(),
+                pass = $('#pass').val(),
+                cpass = $('#cpass').val(),
+                sel_gender = document.getElementById("gender"),
+                gender = sel_gender.options[sel_gender.selectedIndex].value,
+                subscriber = $('#subscriber:checked').val(),
+                cdaftar = grecaptcha.getResponse(capcaydaftar);
+
+            if(uname == ''){
+                $("#err-uname").show();
+                $("#err-uname")[0].innerHTML = "Nama belum di input";
+            }else{
+                $("#err-uname")[0].innerHTML = "";
+                $("#err-uname").hide();
+            }
+
+            if(email == ''){
+                $("#err-email").show();
+                $("#err-email")[0].innerHTML = "Email belum di input";
+            }else{
+                $("#err-email")[0].innerHTML = "";
+                $("#err-email").hide();
+            }
+
+            if(pass == ''){
+                $("#err-pass").show();
+                $("#err-pass")[0].innerHTML = "Password belum di input";
+            }else{
+                $("#err-pass")[0].innerHTML = "";
+                $("#err-pass").hide();
+            }
+
+            if(cpass == ''){
+                $("#err-cpass").show();
+                $("#err-cpass")[0].innerHTML = "Confirm Password belum di input";
+            }else{
+                $("#err-cpass")[0].innerHTML = "";
+                $("#err-cpass").hide();
+            }
+
+            if(pass !== cpass){
+                $("#err-cpass").show();
+                $("#err-cpass")[0].innerHTML = "Password tidak sama";
+            }else{
+                $("#err-cpass")[0].innerHTML = "";
+                $("#err-cpass").hide();
+            }
+
+            if(uname != '' && email != '' && pass != '' && cpass != '' && pass == cpass){
+                $("#form-loading").show();
+                $("#form-loading")[0].innerHTML = "Loading...";
+
+                $("#form-error").hide();
+                $("#btn-daftar").hide();
+
+                $.ajax({
+                    url: "http://tribratanews.polri.go.id/register",
+                    type: 'POST',
+                    data: 'uname=' +uname+
+                        '&email=' +email+
+                        '&hp=' +hp+
+                        '&pass=' +pass+
+                        '&gender=' +gender+
+                        '&subscriber=' +subscriber+
+                        '&captcha=' +cdaftar,
+                    success: function(data){
+                        $("#form-loading").hide();
+
+                        var jsonData = JSON.parse(data);
+                        if(jsonData.code == "success"){
+                            $("#form-success").show();
+                            $("#form-success")[0].innerHTML = ""+jsonData.msg;
+
+                            setTimeout(function() {
+                                window.location.href = "http://tribratanews.polri.go.id/";
+                            }, 5000);
+                        }else{
+                            $("#btn-daftar").show();
+                            $("#form-error").show();
+                            $("#form-error")[0].innerHTML = ""+jsonData.msg;
+
+                            setTimeout(function() {
+                                $("#form-error").hide();
+                            }, 10000);
+                        }
+                    }
+                });
+            }else{
+                $("#btn-daftar").show();
+            }
+        });
+
+        $("#login").on("submit",function(){var e=$("#log-email").val(),o=$("#log-pass").val(),r=grecaptcha.getResponse(capcaymasuk);""==e?($("#err-lemail").show(),$("#err-lemail")[0].innerHTML="Email belum di input"):($("#err-lemail")[0].innerHTML="",$("#err-lemail").hide()),""==o?($("#err-lpass").show(),$("#err-lpass")[0].innerHTML="Password belum di input"):($("#err-lpass")[0].innerHTML="",$("#err-lpass").hide()),""!=e&&""!=o?($("#form-loading-log").show(),$("#form-loading-log")[0].innerHTML="Loading...",$("#form-error-log").hide(),$("#btn-masuk").hide(),$.ajax({url:"http://tribratanews.polri.go.id/login",type:"POST",data:"logemail="+e+"&logpass="+o+"&captcha="+r,success:function(e){$("#form-loading-log").hide();var o=JSON.parse(e);"success"==o.code?($("#form-success-log").show(),$("#form-success-log")[0].innerHTML=""+o.msg,setTimeout(function(){window.location.href="http://tribratanews.polri.go.id/"},5e3)):($("#btn-masuk").show(),$("#form-error-log").show(),$("#form-error-log")[0].innerHTML=""+o.msg,setTimeout(function(){$("#form-error-log").hide()},1e4))}})):$("#btn-masuk").show()});
+
+        $("#btn-profile").click(function(){
+            var pidm = $('#pidm').val(),
+                puname = $('#puname').val(),
+                pemail = $('#pemail').val(),
+                php = $('#php').val(),
+                ppass = $('#ppass').val(),
+                pcpass = $('#pcpass').val(),
+                pstatus = $('#pstatus').val(),
+                psel_gender = document.getElementById("pgender"),
+                pgender = psel_gender.options[psel_gender.selectedIndex].value,
+                pimages = $('#pimages')[0].files[0],
+                psubscriber = $('#psubscriber:checked').val(),
+                poldpass = $('#poldpass').val();
+
+            var fd = new FormData();
+            fd.append('uname',puname);
+            fd.append('idm',pidm);
+            fd.append('email',pemail);
+            fd.append('hp',php);
+            fd.append('pass',ppass);
+            fd.append('status',pstatus);
+            fd.append('gender',pgender);
+            fd.append('images',pimages);
+            fd.append('oldpass',poldpass);
+            fd.append('subscriber',psubscriber);
+
+            if(pemail == ''){
+                $("#err-pemail").show();
+                $("#err-pemail")[0].innerHTML = "Email belum di input";
+            }else{
+                $("#err-pemail")[0].innerHTML = "";
+                $("#err-pemail").hide();
+            }
+
+            if(ppass !== pcpass){
+                $("#err-pcpass").show();
+                $("#err-pcpass")[0].innerHTML = "Password tidak sama";
+            }else{
+                $("#err-pcpass")[0].innerHTML = "";
+                $("#err-pcpass").hide();
+            }
+
+            if(pemail != '' && ppass == pcpass){
+                $("#form-loading-pro").show();
+                $("#form-loading-pro")[0].innerHTML = "Loading...";
+
+                $("#form-error-pro").hide();
+                $("#btn-profile").hide();
+
+                $.ajax({
+                    url: "http://tribratanews.polri.go.id/profile",
+                    type: 'POST',
+                    data: fd,
+                    contentType: false,
+                    processData: false,
+                    success: function(data){
+                        $("#form-loading-pro").hide();
+
+                        var jsonData = JSON.parse(data);
+                        if(jsonData.code == "success"){
+                            $("#form-success-pro").show();
+                            $("#form-success-pro")[0].innerHTML = ""+jsonData.msg;
+
+                            setTimeout(function() {
+                                window.location.href = "http://tribratanews.polri.go.id/";
+                            }, 3000);
+                        }else{
+                            $("#btn-profile").show();
+                            $("#form-error-pro").show();
+                            $("#form-error-pro")[0].innerHTML = ""+jsonData.msg;
+
+                            setTimeout(function() {
+                                $("#form-error-pro").hide();
+                            }, 1000);
+                        }
+                    }
+                });
+            }else{
+                $("#btn-profile").show();
+            }
+        });
+
+        $("#btn-lupa").click(function(){
+            var lpemail = $('#lpemail').val();
+
+            var fd = new FormData();
+            fd.append('email',lpemail);
+
+            $("#form-loading-lupa").show();
+            $("#form-loading-lupa")[0].innerHTML = "Loading...";
+
+            $("#form-error-lupa").hide();
+            $("#btn-lupa").hide();
+
+            $.ajax({
+                url: "http://tribratanews.polri.go.id/lupa",
+                type: 'POST',
+                data: fd,
+                contentType: false,
+                processData: false,
+                success: function(data){
+                    $("#form-loading-lupa").hide();
+
+                    var jsonData = JSON.parse(data);
+                    if(jsonData.code == "success"){
+                        $("#form-success-lupa").show();
+                        $("#form-success-lupa")[0].innerHTML = ""+jsonData.msg;
+
+                        setTimeout(function() {
+                            window.location.href = "http://tribratanews.polri.go.id/";
+                        }, 3000);
+                    }else{
+                        $("#btn-lupa").show();
+                        $("#form-error-lupa").show();
+                        $("#form-error-lupa")[0].innerHTML = ""+jsonData.msg;
+
+                        setTimeout(function() {
+                            $("#form-error-lupa").hide();
+                        }, 1000);
+                    }
+                }
+            });
+        });
+
+        $('.tbnInfinity').jscroll({
+            loadingHtml: '<div><div class="warp-list-more"><img src="http://tribratanews.polri.go.id/assets/d/images/tbn-loader.gif" alt="loading" style="width:30%"></div></div>',
+            nextSelector: '.tbn-more a',
+            autoTrigger : false,
+            callback: function() {
+                if ($('.tbn-more a').is(":visible")) {
+                    var element = document.getElementById("more-index");
+                    element.classList.add("hidden");
+                }else{
+                    var element = document.getElementById("more-index");
+                    element.classList.remove("hidden");
+                }
+            }
+        });
+
+        $("img.lazy").lazyload();
+        $("img.l-lazy").lazyload({effect: 'fadeIn'});
+        $("img.r-lazy").lazyload({effect: 'fadeIn'});
+
+        window.onscroll = function() {myFunction()};
+        function myFunction() {
+            var navbar = document.getElementById("navbar");
+            var navbarfix = document.getElementById("nav-fixed");
+            var sticky = navbar.offsetTop;
+            if (window.pageYOffset >= 400) {
+                navbar.classList.add("sticky");
+                navbarfix.classList.add("nav-fixed");
+                navbarfix.classList.remove("nav--");
+            }
+            if (window.pageYOffset <= 181) {
+                navbar.classList.remove("sticky");
+                navbarfix.classList.remove("nav-fixed");
+                navbarfix.classList.add("nav--");
+            }
+        }
+
+        $(".profile > a").click(function(e){
+            if($(this).hasClass("buka")){
+                $(this).removeClass("buka");
+                $(this).parent().children("ul").stop(true,true).slideUp("normal");
+            } else {
+                $(this).addClass("buka");
+                $(this).parent().children("ul").stop(true,true).slideDown("normal");
+            }
+        });
+
+        $('#btn-lupa-password').click(function () {
+            $('#masuk').modal('hide');
+            document.body.style.padding = "0";
+        });
+
+    });
+</script>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=201631296572503&autoLogAppEvents=1"></script>
+
+</body>
+</html>
+

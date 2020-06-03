@@ -1,0 +1,1 @@
+This is a autonomous license plate and driver recognition using OpenALPR and face_recognition framework
