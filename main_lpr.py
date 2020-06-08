@@ -5,11 +5,6 @@ import pprint
 # Load the ALPR Module
 alpr = Alpr("id", "/usr/share/openalpr/config/openalpr.defaults.conf", "/usr/share/openalpr/runtime_data")
 
-# Open Configuration Files
-# sudo subl /usr/share/openalpr/config/openalpr.defaults.conf
-# sudo subl /usr/share/openalpr/runtime_data/config/id.conf
-# sudo subl /usr/share/openalpr/runtime_data/
-
 # Check the Module
 if not alpr.is_loaded():
     print("Error loading OpenALPR")
